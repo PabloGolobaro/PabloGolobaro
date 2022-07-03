@@ -3,7 +3,7 @@ My name is Pavel.
 
 👀 I’m interested in Web and highload system developing
 
-🌱 I’m currently learning Golang, gRPC, and etc.
+🌱 I’m currently learning Golang.
 
 💞️ I’m looking to collaborate on all projects at all!
 
