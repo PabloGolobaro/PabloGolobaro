@@ -1,14 +1,6 @@
-Hi there 👋
-My name is Pavel.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloGolobaro&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Latand" align = "center"/></p>
 
-👀 I’m interested in Web and highload system developing
 
-🌱 I’m currently learning and using Golang.
 
-🐍I have experience of developing on Python
+📫 To reach me email yeu344@gmail.com or telegram @PabloGolobar
 
-💞️ I’m looking to collaborate on all projects at all!
-
-📫 How to reach me email yeu344@gmail.com or telegram @PabloGolobar
-
-I'm looking forward to work on interesting projects and enrich my skills.
