@@ -1,4 +1,4 @@
-# Pavel Golovin
+# Pablo Golobaro
 
 ### Senior Go Developer · Backend Engineer · FinTech
 
@@ -8,7 +8,7 @@
 
 Senior Golang Developer with 4+ years of commercial experience building scalable, production-grade backend systems. I focus on distributed architectures and high-availability services that follow [12-Factor App](https://12factor.net/) principles, with deep expertise in database design, system architecture, and operational reliability.
 
-My background is rooted in **FinTech — payments and transactional systems**, where correctness, low latency, and resilience under load are non-negotiable. I have hands-on experience designing event-driven architectures and durable workflows for mission-critical services.
+My background is rooted in **FinTech — payments and transactional systems**, where correctness, low latency, and resilience under load are non-negotiable. I have hands-on experience designing event-driven architectures and durable workflows for mission-critical services. I'm a strong advocate of **Domain-Driven Design** as a foundation for building software that mirrors the business it serves.
 
 I work in an AI-augmented development workflow, using agentic tools (Claude, Cursor) to ship faster without compromising on code quality.
 
@@ -22,6 +22,8 @@ I work in an AI-augmented development workflow, using agentic tools (Claude, Cur
 - **Database engineering** — schema design, query optimization, and operational management
 - **Workflow orchestration** — expert in **Uber Temporal** platform, both development and operations
 - **Distributed systems** — event-driven architectures, async messaging, eventual consistency
+- **Authentication & authorization** — Keycloak, OAuth 2.0 / OIDC flows, secure identity management
+- **Domain-Driven Design** — my preferred approach to modeling complex business domains
 
 ---
 
@@ -37,11 +39,14 @@ I work in an AI-augmented development workflow, using agentic tools (Claude, Cur
 
 **Messaging & Streaming**
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
 
 **Workflow Orchestration**
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+
+**Identity & Auth**
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
 **APIs & Communication**
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
