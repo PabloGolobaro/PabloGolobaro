@@ -69,7 +69,7 @@ I work in an AI-augmented development workflow, using agentic tools (Claude, Cur
 ## Contact
 
 - **Email:** _yeu344@gmail.com_
-- **ХабрКарьера:** _[@PabloGolobar](https://career.habr.com/pablogolobar)_
+- **ХабрКарьера:** _[карьера](https://career.habr.com/pablogolobar)_
 - **Telegram:** _@PabloGolobar_
 
 ---
